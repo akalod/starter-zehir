@@ -1,0 +1,8 @@
+_cache
+_logs
+vendor
+.idea
+public/_app.php
+public/assets/cache
+public/node_modules
+*.lock
